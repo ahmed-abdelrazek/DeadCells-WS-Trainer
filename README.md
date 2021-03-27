@@ -11,3 +11,7 @@ Dead Cells basic Trainer for Windows Store edition
 3. add money (10000 at a time
 
 ## Screenshots
+![trainer screen](Images/1.png)
+
+![god mod](Images/2.png)
+
