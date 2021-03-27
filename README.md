@@ -1,4 +1,4 @@
-# DeadCells-WS-Trainer
+# DeadCells WS Trainer
 Dead Cells basic Trainer for Windows Store edition
 
 ## Requirments
@@ -8,7 +8,7 @@ Dead Cells basic Trainer for Windows Store edition
 ## Features
 1. god mode (your total health and current health will be 20000)
 2. add cells (10 at a time)
-3. add money (10000 at a time
+3. add money (10000 at a time)
 
 ## Screenshots
 ![trainer screen](Images/1.png)
