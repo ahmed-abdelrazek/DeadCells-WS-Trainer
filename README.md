@@ -1,5 +1,5 @@
 # DeadCells WS Trainer
-Dead Cells basic Trainer for Windows Store edition
+Dead Cells basic Trainer for [Windows Store edition](https://www.microsoft.com/en-us/p/dead-cells-the-fatal-seed-bundle/9nw281d5dlqv) V22 (2021-01-28)
 
 ## Requirments
 1. .net framework 4.8 need to be installed, [download](https://dotnet.microsoft.com/download/dotnet-framework/net48)
