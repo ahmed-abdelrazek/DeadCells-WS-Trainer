@@ -1,17 +1,19 @@
 # DeadCells-WS-Trainer
-Dead Cells basic Trainer for Windows Store edition
+Dead Cells basic Trainer for Windows Store edition.
 
 ## Requirments
 1. .net framework 4.8 need to be installed, [download](https://dotnet.microsoft.com/download/dotnet-framework/net48)
-2. run the trainer after you start your game session
+2. run the trainer after starting your game session
 
 ## Features
-1. god mode (your total health and current health will be 20000)
-2. add cells (10 at a time)
-3. add money (10000 at a time
+1. God Mode (your total health and current health will be 20000)
+2. Add Cells (10 at a time)
+3. Add Money (10000 at a time)
+
+## Warning
+The Add Cells/Money cheat will only update the UI value for the user to the real one when you earn some from killing enemies but you still will be able to use them in shops no problem without being updated.
 
 ## Screenshots
-![trainer screen](Images/1.png)
+![Trainer Screen](Images/1.png)
 
-![god mod](Images/2.png)
-
+![God Mode](Images/2.png)

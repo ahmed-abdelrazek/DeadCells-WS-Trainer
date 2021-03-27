@@ -4,7 +4,6 @@
     <CheatEntry>
       <ID>10</ID>
       <Description>"TotalHealth"</Description>
-      <LastState Value="28100" RealAddress="132AA583420"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"deadcells.exe"+0001D7F8</Address>
       <Offsets>
@@ -18,7 +17,6 @@
     <CheatEntry>
       <ID>4</ID>
       <Description>"CurrentHealth"</Description>
-      <LastState Value="28100" RealAddress="132AA58341C"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"deadcells.exe"+0001D7F8</Address>
       <Offsets>
@@ -32,7 +30,6 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"Cells"</Description>
-      <LastState Value="3" RealAddress="132AA583784"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"deadcells.exe"+0001D7F8</Address>
       <Offsets>
@@ -44,17 +41,16 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>8</ID>
+      <ID>14</ID>
       <Description>"Money"</Description>
-      <LastState Value="1294" RealAddress="132AA5831B0"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"deadcells.exe"+0001D7F8</Address>
       <Offsets>
-        <Offset>188</Offset>
+        <Offset>48</Offset>
+        <Offset>80</Offset>
         <Offset>30</Offset>
         <Offset>310</Offset>
-        <Offset>3E8</Offset>
-        <Offset>5FC</Offset>
+        <Offset>508</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>

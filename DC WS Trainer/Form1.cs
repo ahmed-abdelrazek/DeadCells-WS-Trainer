@@ -109,7 +109,7 @@ namespace DC_Trainer
                         }
                     }
                 }
-                Thread.Sleep(900);
+                Thread.Sleep(700);
             }
         }
 
