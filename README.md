@@ -1,5 +1,5 @@
 # DeadCells-WS-Trainer
-Dead Cells basic Trainer for Microsoft Store Edition.
+Dead Cells Basic Trainer for Microsoft Store Edition (better trainers are avaliable now and up to date).
 
 ## Requirments
 1. .net framework 4.8 need to be installed, [download](https://dotnet.microsoft.com/download/dotnet-framework/net48)
